@@ -1,0 +1,11 @@
+source/*backups/*
+source/fp-info-cache
+configs/__pycache__
+*CI*
+datasheets/*
+!.gitkeep
+*.kicad_prl
+*.xml
+*.old
+*lck*
+*bak*
