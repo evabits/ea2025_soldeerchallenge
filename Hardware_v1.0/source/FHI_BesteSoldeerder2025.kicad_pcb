@@ -6589,6 +6589,7 @@
 		(path "/66c4445a-bb94-47a0-a225-9bb7ece763a0")
 		(sheetname "/")
 		(sheetfile "FHI_BesteSoldeerder2025.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -16.865574 -2.37276) (xy -19.45849 -2.37276) (xy -19.45849 -4.813541) (xy -17.586563 -4.813541)
@@ -11020,6 +11021,7 @@
 		(path "/ff63bf11-8146-4d55-a5d8-755f5385c5e2")
 		(sheetname "/")
 		(sheetfile "FHI_BesteSoldeerder2025.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_rect
 			(start -7.2 -7.2)
 			(end 7.2 7.2)
@@ -28963,6 +28965,7 @@
 		(path "/ce2b0e5e-3e39-4ee0-a2dc-aafc1155085b")
 		(sheetname "/")
 		(sheetfile "FHI_BesteSoldeerder2025.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy 7.583714 5.588) (xy 4.426857 5.588) (xy 4.426857 -5.551715) (xy 7.583714 -5.551715) (xy 7.583714 5.588)
