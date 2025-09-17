@@ -29322,7 +29322,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -29427,7 +29427,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "/")
 		(sheetfile "FHI_BesteSoldeerder2025.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -29545,7 +29545,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -29663,7 +29663,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -29730,7 +29730,7 @@
 			)
 		)
 		(property "Value" "RP_~{reset}"
-			(at -0.08 -4.8 180)
+			(at -0.08 -4.8 0)
 			(layer "B.SilkS")
 			(uuid "b6953af7-c0a5-4872-bf6e-aa697eaf62d8")
 			(effects
@@ -29742,7 +29742,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "26009328-2dfd-48a9-9c64-f54d2b4bc51b")
@@ -29754,7 +29754,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29b60a35-e4f2-4be4-8417-fd7bf1fed3d6")
@@ -29782,7 +29782,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "DAP_probe")
 		(sheetfile "dapprobe.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -29900,7 +29900,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30018,7 +30018,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30136,7 +30136,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30255,7 +30255,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "DAP_probe")
 		(sheetfile "dapprobe.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30374,7 +30374,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "DAP_probe")
 		(sheetfile "dapprobe.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30493,7 +30493,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "DAP_probe")
 		(sheetfile "dapprobe.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30611,7 +30611,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30729,7 +30729,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30847,7 +30847,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -30965,7 +30965,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -31083,7 +31083,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -31201,7 +31201,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -31319,7 +31319,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -31437,7 +31437,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -31555,7 +31555,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "Root")
 		(sheetfile "evajig_iomodule_V1-5-0.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
@@ -31673,7 +31673,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(sheetname "ADC")
 		(sheetfile "ADC.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 1.2 0)
